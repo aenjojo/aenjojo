@@ -1,13 +1,15 @@
 ## Introduction
-Hello, I am Aen Jojo, a student of computer science. I am currently working on my own discord bot with discord.js API wrapper. I am come from Indonesia and my age is 20 (or less).
+Hello, I am Aen Jojo, a student of computer science.
+I am currently working on my own discord bot with discord.js API wrapper.
+I am come from Indonesia and my age is 20 (or less).
 
 ## Contacts
 You can reach me from:
-FB:
-IG:
-TW:
-ST:
-TE:
+- FB:
+- IG:
+- TW:
+- ST:
+- TE:
 * will be added later
 
 <!--
