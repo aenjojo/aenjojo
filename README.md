@@ -10,7 +10,7 @@ You can reach me from:
 - TW:
 - ST:
 - TE:
-* will be added later
+`* will be added later`
 
 <!--
 **aenjojo/aenjojo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
