@@ -4,12 +4,12 @@ I am currently working on my own discord bot with discord.js API wrapper.
 I am come from Indonesia and my age is 20 (or less).
 
 ## Contacts
-You can reach me from:
-<img src="./assets/facebook.svg" width="16"> Jojo
-IG:
-TW:
-ST:
-TE:
+You can reach me from:<br>
+<img src="./assets/facebook.svg" width="18"> Jojo <br>
+IG:<br>
+TW:<br>
+ST:<br>
+TE:<br>
 
 `*will be added later`
 
