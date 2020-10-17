@@ -5,11 +5,11 @@ I am come from Indonesia and my age is 20 (or less).
 
 ## Contacts
 You can reach me from:
-- <img src="./assets/facebook.svg" width="24">: Jojo
-- IG:
-- TW:
-- ST:
-- TE:
+<img src="./assets/facebook.svg" width="16"> Jojo
+IG:
+TW:
+ST:
+TE:
 
 `*will be added later`
 
