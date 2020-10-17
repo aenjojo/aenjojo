@@ -12,6 +12,9 @@ ST:<br>
 TE:<br>
 
 `*will be added later`
+<div>
+  Icons made by <a href="https://www.flaticon.com/authors/freepik" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a>
+</div>
 
 <!--
 **aenjojo/aenjojo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
