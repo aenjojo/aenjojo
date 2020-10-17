@@ -5,7 +5,7 @@ I am come from Indonesia and my age is 20 (or less).
 
 ## Contacts
 You can reach me from:
-- ![Facebook](./assets/facebook.svg): Jojo
+- <img src="./assets/facebook.svg" width="24">: Jojo
 - IG:
 - TW:
 - ST:
