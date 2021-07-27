@@ -1,17 +1,17 @@
 ## Introduction
-Hello, I am Aen Jojo, a student of computer science.
-I am currently working on my own discord bot with discord.js API wrapper.
-I am come from Indonesia and my age is 20 (or less).
+Hello, I am Josua Fernando, also known as Aen Jojo (my online alias), a student of computer science.
+I am currently working on my own Discord bot with Discord.js API wrapper.
+I am also learning about Next.js and TailwindCSS.
+I come from Indonesia and my age is 21 (or less).
 
 ## Contacts
 You can reach me from:<br>
-<img src="./assets/facebook.svg" width="18"> ..<br>
-<img src="./assets/instagram.svg" width="18"> ..<br>
-<img src="./assets/twitter.svg" width="18"> ..<br>
-<img src="./assets/spotify.svg" width="18"> ..<br>
-<img src="./assets/telegram.svg" width="18"> ..<br>
+<img src="./assets/facebook.svg" width="18"><span> | </span>Josua Fernando at Facebook<br>
+<img src="./assets/instagram.svg" width="18"><span> | </span><a href="https://www.instagram.com/aenjojo__09">Josua Fernando at Instagram</a><br>
+<img src="./assets/twitter.svg" width="18"><span> | </span>Aen Jojo at Twitter<br>
+<img src="./assets/spotify.svg" width="18"><span> | </span>Aen Jojo at Spotify<br>
+<img src="./assets/telegram.svg" width="18"><span> | </span>Aen Jojo at Telegram<br>
 
-`*will be added later`
 <div>
   Icons made by <a href="https://www.flaticon.com/authors/freepik" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a>
 </div>
