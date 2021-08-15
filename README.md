@@ -9,7 +9,6 @@ You can reach me from:<br>
 <img src="./assets/facebook.svg" width="18"><span> | </span>Josua Fernando at Facebook<br>
 <img src="./assets/instagram.svg" width="18"><span> | </span><a href="https://www.instagram.com/aenjojo__09">Josua Fernando at Instagram</a><br>
 <img src="./assets/twitter.svg" width="18"><span> | </span>Aen Jojo at Twitter<br>
-<img src="./assets/spotify.svg" width="18"><span> | </span>Aen Jojo at Spotify<br>
 <img src="./assets/telegram.svg" width="18"><span> | </span>Aen Jojo at Telegram<br>
 
 <div>
