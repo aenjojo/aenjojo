@@ -1,3 +1,4 @@
+# AenJojo Profile
 ## Introduction
 Hello, I am Josua Fernando, also known as Aen Jojo (my online alias), a student of computer science.
 I am currently working on my own Discord bot with Discord.js API wrapper.
@@ -6,6 +7,14 @@ I come from Indonesia and my age is 21 (or less).
 
 ## Contacts
 You can reach me from:<br>
+* LinkedIn: aenjojo
+
+
+<!--
+## Skills
+HTML - CSS - JavaScript
+
+<!--
 <img src="./assets/facebook.svg" width="18"><span> | </span>Josua Fernando at Facebook<br>
 <img src="./assets/instagram.svg" width="18"><span> | </span><a href="https://www.instagram.com/aenjojo__09">Josua Fernando at Instagram</a><br>
 <img src="./assets/twitter.svg" width="18"><span> | </span>Aen Jojo at Twitter<br>
