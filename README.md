@@ -1,4 +1,4 @@
-# AenJojo Profile
+![# AenJojo Profile](https://avatars.githubusercontent.com/u/36470027)
 
 ## Introduction
 Hello, I am Josua Fernando, also known as Aen Jojo (my online alias), a student of computer science.
