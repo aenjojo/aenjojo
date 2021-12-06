@@ -1,4 +1,5 @@
-# AenJojo Profile
+<h1 style="text-align:center">AenJojo Profile</h1>
+
 ## Introduction
 Hello, I am Josua Fernando, also known as Aen Jojo (my online alias), a student of computer science.
 I am currently working on my own Discord bot with Discord.js API wrapper.
