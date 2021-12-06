@@ -1,4 +1,4 @@
-<h1 style="text-align:center">AenJojo Profile</h1>
+# AenJojo Profile
 
 ## Introduction
 Hello, I am Josua Fernando, also known as Aen Jojo (my online alias), a student of computer science.
