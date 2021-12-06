@@ -1,4 +1,6 @@
-![# AenJojo Profile](https://avatars.githubusercontent.com/u/36470027)
+<div class="header">
+  <img src="https://avatars.githubusercontent.com/u/36470027?s=120" alt="AenJojo GitHub" />
+</div>
 
 ## Introduction
 Hello, I am Josua Fernando, also known as Aen Jojo (my online alias), a student of computer science.
@@ -10,6 +12,12 @@ I come from Indonesia and my age is 21 (or less).
 You can reach me from:<br>
 * LinkedIn: aenjojo
 
+<style>
+.header {
+  margin: 10px auto;
+  width: 100%;
+}
+</style>
 
 <!--
 ## Skills
