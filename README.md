@@ -1,5 +1,6 @@
-<div class="header">
+<div align="center">
   <img src="https://avatars.githubusercontent.com/u/36470027?s=120" alt="AenJojo GitHub" />
+  # AenJojo Profile
 </div>
 
 ## Introduction
@@ -11,13 +12,6 @@ I come from Indonesia and my age is 21 (or less).
 ## Contacts
 You can reach me from:<br>
 * LinkedIn: aenjojo
-
-<style>
-.header {
-  margin: 10px auto;
-  width: 100%;
-}
-</style>
 
 <!--
 ## Skills
