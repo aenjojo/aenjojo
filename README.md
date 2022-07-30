@@ -15,7 +15,7 @@ You can reach me from:<br>
 * Email: Josua Fernando (josuafernando999@gmail.com)
 * LinkedIn: Josua Fernando Simanjuntak (in/aenjojo)
 
-<--
+<!--
 ## Skills
 * HTML - [short description about this skill]
 * CSS - ...
