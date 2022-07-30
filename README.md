@@ -5,18 +5,24 @@
 </div>
 
 ## Introduction
-Hello, I am Josua Fernando, also known as Aen Jojo (my online alias), a student of computer science.
+Hello, I am Josua Fernando Simanjuntak, also known as Aen Jojo (my online alias), a student of computer science.
 I am currently working on my own Discord bot with Discord.js API wrapper.
 I am also learning about Next.js and TailwindCSS.
 I come from Indonesia and my age is 21 (or less).
 
 ## Contacts
 You can reach me from:<br>
-* LinkedIn: aenjojo
+* Email: Josua Fernando (josuafernando999@gmail.com)
+* LinkedIn: Josua Fernando Simanjuntak (in/aenjojo)
 
-<!--
+<--
 ## Skills
-HTML - CSS - JavaScript
+* HTML - [short description about this skill]
+* CSS - ...
+* JS/TS - ...
+* SQL - ...
+* UI/UX - ...
+* API - ...
 
 <!--
 <img src="./assets/facebook.svg" width="18"><span> | </span>Josua Fernando at Facebook<br>
