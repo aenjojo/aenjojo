@@ -1,19 +1,18 @@
 <div align="center">
   <img src="https://avatars.githubusercontent.com/u/36470027?s=120" alt="AenJojo GitHub" />
   
-  # AenJojo Profile
+  # Josua Fernando Simanjuntak's Profile
 </div>
 
 ## Introduction
-Hello, I am Josua Fernando Simanjuntak, also known as Aen Jojo (my online alias), a student of computer science.
-I am currently working on my own Discord bot with Discord.js API wrapper.
-I am also learning about Next.js and TailwindCSS.
-I come from Indonesia and my age is 21 (or less).
+Hello, I am Josua Fernando Simanjuntak, also known as Aen Jojo (my online alias), a fresh graduate from STIKOM Tunas Bangsa with Bachelor Degree of Computer Science in System Information program.
+I have learned JavaScript, web technology, and programming in general since 2017. I mostly focused in front-end development with NextJS and implementing TailwindCSS to style the web page.
+I can do back-end with ExpressJS to create API server and MySQL to manage database. I also have interest in UI/UX design and creating Discord bot with discord.js.
 
 ## Contacts
 You can reach me from:<br>
 * Email: Josua Fernando (josuafernando999@gmail.com)
-* LinkedIn: Josua Fernando Simanjuntak (in/aenjojo)
+* LinkedIn: Josua Fernando Simanjuntak ([in/aenjojo](https://www.linkedin.com/in/aenjojo))
 
 <!--
 ## Skills
