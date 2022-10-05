@@ -22,7 +22,7 @@ You can reach me from:<br>
 
 <style>
 .profile-image {
-  border-radius: 9999px;
+  border-radius: 50%;
 }
 </style>
 
