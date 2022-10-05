@@ -1,11 +1,5 @@
-<style>
-.profile-image {
-  border-radius: 50%;
-}
-</style>
-
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/36470027?s=120" alt="AenJojo GitHub" class="profile-image" />
+  <img src="https://avatars.githubusercontent.com/u/36470027?s=120" alt="AenJojo GitHub" style="border-radius: 50%" />
   
   # Josua Fernando Simanjuntak's Profile
 </div>
