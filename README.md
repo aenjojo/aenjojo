@@ -1,3 +1,9 @@
+<style>
+.profile-image {
+  border-radius: 50%;
+}
+</style>
+
 <div align="center">
   <img src="https://avatars.githubusercontent.com/u/36470027?s=120" alt="AenJojo GitHub" class="profile-image" />
   
@@ -19,12 +25,6 @@ Here, I also developing discord bot with discord.js.
 You can reach me from:<br>
 * Email: Josua Fernando (josuafernando999@gmail.com)
 * LinkedIn: Josua Fernando Simanjuntak ([in/aenjojo](https://www.linkedin.com/in/aenjojo))
-
-<style>
-.profile-image {
-  border-radius: 50%;
-}
-</style>
 
 <!--
 ## Skills
