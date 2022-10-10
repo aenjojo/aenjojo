@@ -17,12 +17,12 @@ I also have interest in UI/UX design.
 Here, I also developing discord bot with discord.js.
 
 ## Contacts
-You can reach me from:<br>
-* Email: [Josua Fernando](['Email'])
-* LinkedIn: [Josua Fernando Simanjuntak](['LinkedIn'])
+You can reach me from [Email] or [LinkedIn]
 
-['Email']    : josuafernando999@gmail.com
-['LinkedIn'] : https://www.linkedin.com/in/aenjojo
+
+
+[Email]:    josuafernando999@gmail.com
+[LinkedIn]: https://www.linkedin.com/in/aenjojo
 
 <!--
 ## Skills
