@@ -1,7 +1,8 @@
 <div align="center">
   <img src="https://avatars.githubusercontent.com/u/36470027?s=120" alt="AenJojo GitHub" style="border-radius: 50%" />
   
-  # Josua Fernando Simanjuntak's Profile
+  Josua Fernando Simanjuntak's Profile
+  ====================================
 </div>
 
 ## Introduction
@@ -17,8 +18,11 @@ Here, I also developing discord bot with discord.js.
 
 ## Contacts
 You can reach me from:<br>
-* Email: Josua Fernando (josuafernando999@gmail.com)
-* LinkedIn: Josua Fernando Simanjuntak ([in/aenjojo](https://www.linkedin.com/in/aenjojo))
+* Email: [Josua Fernando](['Email'])
+* LinkedIn: [Josua Fernando Simanjuntak](['LinkedIn'])
+
+['Email']    : josuafernando999@gmail.com
+['LinkedIn'] : https://www.linkedin.com/in/aenjojo
 
 <!--
 ## Skills
