@@ -23,6 +23,7 @@ You can reach me from:
       alt="My LinkedIn Profile"
       src="https://img.shields.io/static/v1?label=&message=LinkedIn&color=0A66C2&style=for-the-badge&logo=linkedin"
       height="30"
+      style="padding: 0"
     />
   </a>
   <a href="mailto:josuafernando999@gmail.com">
@@ -30,6 +31,7 @@ You can reach me from:
       alt="My Email"
       src="https://img.shields.io/static/v1?label=&message=Gmail&color=EA4335&style=for-the-badge&logo=gmail"
       height="30"
+      style="padding: 0"
     />
   </a>
   <a href="https://www.instagram.com/aenjojo_09">
@@ -37,6 +39,7 @@ You can reach me from:
       alt="My Instagram"
       src="https://img.shields.io/static/v1?label=&message=Instagram&color=E4405F&style=for-the-badge&logo=instagram"
       height="30"
+      style="padding: 0"
     />
   </a>
   <a href="https://www.instagram.com/aenjojo_09">
@@ -44,6 +47,7 @@ You can reach me from:
       alt="My Twitter"
       src="https://img.shields.io/static/v1?label=&message=Twitter&color=1DA1F2&style=for-the-badge&logo=twitter"
       height="30"
+      style="padding: 0"
     />
   </a>
 </div>
@@ -58,7 +62,7 @@ You can reach me from:
         alt="My GitHub Statistics"
         src="https://github-readme-stats.vercel.app/api?username=aenjojo&count_private=true&show_icons=true&title_color=2080f0&icon_color=2080f0&include_all_commits=true&bg_color=00000000&hide_border=true"
         align="center"
-        style="padding: 0" 
+        style="padding: 0"
       />
     </td>
     <td>
@@ -66,7 +70,7 @@ You can reach me from:
         alt="Most Used Languanges in My GitHub Profile"
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=aenjojo&layout=compact&count_private=true&title_color=2080f0&icon_color=2080f0&include_all_commits=true&bg_color=00000000&hide_border=true"
         align="center"
-        style="padding: 0" 
+        style="padding: 0"
       />
     </td>
   </tr>
