@@ -1,7 +1,7 @@
 <div align="center">
   <img src="/assets/AenJojo - Circle.png" alt="AenJojo GitHub" height="128" />
   
-  # Josua Fernando Simanjuntak's Profile
+  # AenJojo's Profile
 </div>
 
 ## Introduction
