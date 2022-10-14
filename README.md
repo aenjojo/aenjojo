@@ -21,14 +21,14 @@ You can reach me from:
   <a href="https://www.linkedin.com/in/aenjojo">
     <img
       alt="My LinkedIn Profile"
-      src="https://img.shields.io/static/v1?label=&message=Josua%20Fernando&color=2080f0&style=for-the-badge&logo=linkedin"
+      src="https://img.shields.io/static/v1?label=&message=Josua%20Fernando&color=0A66C2&style=for-the-badge&logo=linkedin"
       height="30"
     />
   </a>
   <a href="mailto:josuafernando999@gmail.com">
     <img
       alt="My Email"
-      src="https://img.shields.io/static/v1?label=&message=Josua%20Fernando&color=blue&style=for-the-badge&logo=linkedin"
+      src="https://img.shields.io/static/v1?label=&message=Josua%20Fernando&color=EA4335&style=flat-square&logo=gmail"
       height="30"
     />
   </a>
