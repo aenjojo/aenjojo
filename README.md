@@ -19,7 +19,11 @@ Here, I also developing discord bot with discord.js.
 ## Contacts
 You can reach me from [Email] or [LinkedIn]
 
-
+## Statistics
+<div>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=aenjojo&count_private=true&show_icons=true&title_color=0060ff&icon_color=0060ff&include_all_commits=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aenjojo&layout=compact" />
+</div>
 
 [Email]:    josuafernando999@gmail.com
 [LinkedIn]: https://www.linkedin.com/in/aenjojo
