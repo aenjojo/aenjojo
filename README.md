@@ -23,15 +23,15 @@ You can reach me from [Email] or [LinkedIn]
 <table>
   <tr>
     <td align="center" style="padding: 0; width: 50%">
-      <img align="center" style="padding: 0" src="https://github-readme-stats.vercel.app/api?username=aenjojo&count_private=true&show_icons=true&title_color=0060ff&icon_color=0060ff&include_all_commits=true&bg_color=00000000&hide_border=true" />
+      <img align="center" style="padding: 0" src="https://github-readme-stats.vercel.app/api?username=aenjojo&count_private=true&show_icons=true&title_color=2080f0&icon_color=2080f0&include_all_commits=true&bg_color=00000000&hide_border=true" />
     </td>
     <td>
-      <img align="center" style="padding: 0" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aenjojo&layout=compact&count_private=true&title_color=0060ff&icon_color=0060ff&include_all_commits=true&bg_color=00000000&hide_border=true" />
+      <img align="center" style="padding: 0" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aenjojo&layout=compact&count_private=true&title_color=2080f0&icon_color=2080f0&include_all_commits=true&bg_color=00000000&hide_border=true" />
     </td>
   </tr>
 </table>
 
-> Provided by [`GitHub Readme Stats`]
+> Provided by [GitHub Readme Stats]
 
 
 [Email]:                 josuafernando999@gmail.com
