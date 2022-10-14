@@ -21,7 +21,7 @@ You can reach me from:
   <a href="https://www.linkedin.com/in/aenjojo">
     <img
       alt="My LinkedIn Profile"
-      src="https://img.shields.io/static/v1?label=&message=LinkedIn&color=0A66C2&style=for-the-badge&logo=linkedin"
+      src="https://img.shields.io/static/v1?label=&message=LinkedIn&color=0A66C2&style=for-the-badge&logo=linkedin&logoColor=white"
       height="30"
       style="padding: 0"
     />
@@ -29,7 +29,7 @@ You can reach me from:
   <a href="mailto:josuafernando999@gmail.com">
     <img
       alt="My Email"
-      src="https://img.shields.io/static/v1?label=&message=Gmail&color=EA4335&style=for-the-badge&logo=gmail"
+      src="https://img.shields.io/static/v1?label=&message=Gmail&color=EA4335&style=for-the-badge&logo=gmail&logoColor=white"
       height="30"
       style="padding: 0"
     />
@@ -37,7 +37,7 @@ You can reach me from:
   <a href="https://www.instagram.com/aenjojo_09">
     <img
       alt="My Instagram"
-      src="https://img.shields.io/static/v1?label=&message=Instagram&color=E4405F&style=for-the-badge&logo=instagram"
+      src="https://img.shields.io/static/v1?label=&message=Instagram&color=E4405F&style=for-the-badge&logo=instagram&logoColor=white"
       height="30"
       style="padding: 0"
     />
@@ -45,7 +45,7 @@ You can reach me from:
   <a href="https://www.instagram.com/aenjojo_09">
     <img
       alt="My Twitter"
-      src="https://img.shields.io/static/v1?label=&message=Twitter&color=1DA1F2&style=for-the-badge&logo=twitter"
+      src="https://img.shields.io/static/v1?label=&message=Twitter&color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white"
       height="30"
       style="padding: 0"
     />
