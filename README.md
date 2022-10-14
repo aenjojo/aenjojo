@@ -20,44 +20,20 @@ Here, I also developing discord bot with discord.js.
 You can reach me from [Email] or [LinkedIn]
 
 ## Statistics
-<div>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=aenjojo&count_private=true&show_icons=true&title_color=0060ff&icon_color=0060ff&include_all_commits=true" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aenjojo&layout=compact" />
-</div>
+<table>
+  <tr>
+    <td align="center" style="padding: 0; width: 50%">
+      <img align="center" style="padding: 0" src="https://github-readme-stats.vercel.app/api?username=aenjojo&count_private=true&show_icons=true&title_color=0060ff&icon_color=0060ff&include_all_commits=true&bg_color=00000000&hide_border=true" />
+    </td>
+    <td>
+      <img align="center" style="padding: 0" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aenjojo&layout=compact&count_private=true&title_color=0060ff&icon_color=0060ff&include_all_commits=true&bg_color=00000000&hide_border=true" />
+    </td>
+  </tr>
+</table>
 
-[Email]:    josuafernando999@gmail.com
-[LinkedIn]: https://www.linkedin.com/in/aenjojo
+> Provided by [`GitHub Readme Stats`]
 
-<!--
-## Skills
-* HTML - [short description about this skill]
-* CSS - ...
-* JS/TS - ...
-* SQL - ...
-* UI/UX - ...
-* API - ...
 
-<!--
-<img src="./assets/facebook.svg" width="18"><span> | </span>Josua Fernando at Facebook<br>
-<img src="./assets/instagram.svg" width="18"><span> | </span><a href="https://www.instagram.com/aenjojo__09">Josua Fernando at Instagram</a><br>
-<img src="./assets/twitter.svg" width="18"><span> | </span>Aen Jojo at Twitter<br>
-<img src="./assets/telegram.svg" width="18"><span> | </span>Aen Jojo at Telegram<br>
-
-<div>
-  Icons made by <a href="https://www.flaticon.com/authors/freepik" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a>
-</div>
-
-<!--
-**aenjojo/aenjojo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[Email]:                 josuafernando999@gmail.com
+[LinkedIn]:              https://www.linkedin.com/in/aenjojo
+[`GitHub Readme Stats`]: https://github.com/anuraghazra/github-readme-stats
