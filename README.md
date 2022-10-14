@@ -4,7 +4,7 @@
   # AenJojo's Profile
 </div>
 
-## Introduction
+### Introduction
 Hello, I am Josua Fernando Simanjuntak, also known as Aen Jojo (my online alias),
 a fresh graduate from STIKOM Tunas Bangsa with Bachelor Degree of Computer Science in System Information program and
 have learned JavaScript, web technology, and programming in general since 2017.
@@ -15,7 +15,7 @@ Some skill I can do in back-end include, but not limited to create and manage a 
 I also have interest in UI/UX design.
 Here, I also developing discord bot with discord.js.
 
-## Contacts
+### Contacts
 You can reach me from:
 <div style="padding: 0">
   <a href="https://www.linkedin.com/in/aenjojo">
@@ -54,7 +54,7 @@ You can reach me from:
 
 > Badge Provided by [Shields.io]
 
-## Statistics
+### Statistics
 <table>
   <tr>
     <td align="center" style="padding: 0; width: 50%">
