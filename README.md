@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/36470027?s=120" alt="AenJojo GitHub" style="border-radius: 50%" />
+  <img src="/assets/AenJojo - Circle.png" alt="AenJojo GitHub" />
   
   # Josua Fernando Simanjuntak's Profile
 </div>
