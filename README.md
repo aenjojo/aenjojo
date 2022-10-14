@@ -1,8 +1,7 @@
 <div align="center">
   <img src="https://avatars.githubusercontent.com/u/36470027?s=120" alt="AenJojo GitHub" style="border-radius: 50%" />
   
-  Josua Fernando Simanjuntak's Profile
-  ====================================
+  # Josua Fernando Simanjuntak's Profile
 </div>
 
 ## Introduction
@@ -36,4 +35,4 @@ You can reach me from [Email] or [LinkedIn]
 
 [Email]:                 josuafernando999@gmail.com
 [LinkedIn]:              https://www.linkedin.com/in/aenjojo
-[`GitHub Readme Stats`]: https://github.com/anuraghazra/github-readme-stats
+[GitHub Readme Stats]:   https://github.com/anuraghazra/github-readme-stats
