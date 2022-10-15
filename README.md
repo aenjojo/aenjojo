@@ -68,7 +68,7 @@ You can reach me from:
     <td>
       <img
         alt="Most Used Languanges in My GitHub Profile"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=aenjojo&layout=compact&count_private=true&title_color=2080f0&icon_color=2080f0&text_color=92989f&include_all_commits=true&bg_color=00000000&hide_border=true"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=aenjojo&layout=compact&count_private=true&title_color=2080f0&icon_color=2080f0&text_color=92989f&include_all_commits=true&bg_color=00000000&hide_border=true&extra=nexbot-dev/aenex"
         align="center"
         style="padding: 0"
       />
