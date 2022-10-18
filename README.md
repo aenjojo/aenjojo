@@ -42,7 +42,7 @@ You can reach me from:
       style="padding: 0"
     />
   </a>
-  <a href="https://www.instagram.com/aenjojo_09">
+  <a href="https://www.twitter.com/aen_jojo_">
     <img
       alt="My Twitter"
       src="https://img.shields.io/static/v1?label=&message=Twitter&color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white"
