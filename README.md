@@ -78,6 +78,18 @@ You can reach me from:
 
 > Stats Provided by [GitHub Readme Stats]
 
+### Holopin Badge
+My Holopin badge collection board.
+<div>
+  <a href="https://holopin.io/@aenjojo">
+    <img
+      alt="My holopin board"
+      src="https://holopin.me/aenjojo"
+      style="padding: 0"
+    />
+  </a>
+</div>
+
 
 [Shields.io]:            https://shields.io/
 [GitHub Readme Stats]:   https://github.com/anuraghazra/github-readme-stats
