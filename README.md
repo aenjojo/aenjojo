@@ -1,10 +1,11 @@
 <div align="center">
-  <img src="/assets/AenJojo - Circle.png" alt="AenJojo GitHub" height="128" />
+  <img src="/assets/AenJojo - Circle.png" alt="" height="128" />
   
-  # AenJojo's Profile
+  AenJojo's Profile
+  =================
 </div>
 
-### Introduction
+## Introduction
 Hello, I am Josua Fernando Simanjuntak, also known as Aen Jojo (my online alias),
 a fresh graduate from STIKOM Tunas Bangsa with Bachelor Degree of Computer Science in System Information program and
 have learned JavaScript, web technology, and programming in general since 2017.
@@ -15,12 +16,12 @@ Some skill I can do in back-end include, but not limited to create and manage a 
 I also have interest in UI/UX design.
 Here, I also developing discord bot with discord.js.
 
-### Contacts
+## Contacts
 You can reach me from:
 <div style="padding: 0">
   <a href="https://www.linkedin.com/in/aenjojo">
     <img
-      alt="My LinkedIn Profile"
+      alt=""
       src="https://img.shields.io/static/v1?label=&message=LinkedIn&color=0A66C2&style=for-the-badge&logo=linkedin&logoColor=white"
       height="30"
       style="padding: 0"
@@ -28,7 +29,7 @@ You can reach me from:
   </a>
   <a href="mailto:josuafernando999@gmail.com">
     <img
-      alt="My Email"
+      alt=""
       src="https://img.shields.io/static/v1?label=&message=Gmail&color=EA4335&style=for-the-badge&logo=gmail&logoColor=white"
       height="30"
       style="padding: 0"
@@ -36,7 +37,7 @@ You can reach me from:
   </a>
   <a href="https://www.instagram.com/aenjojo_09">
     <img
-      alt="My Instagram"
+      alt=""
       src="https://img.shields.io/static/v1?label=&message=Instagram&color=E4405F&style=for-the-badge&logo=instagram&logoColor=white"
       height="30"
       style="padding: 0"
@@ -44,7 +45,7 @@ You can reach me from:
   </a>
   <a href="https://www.twitter.com/aen_jojo_">
     <img
-      alt="My Twitter"
+      alt=""
       src="https://img.shields.io/static/v1?label=&message=Twitter&color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white"
       height="30"
       style="padding: 0"
@@ -54,12 +55,12 @@ You can reach me from:
 
 > Badge Provided by [Shields.io]
 
-### Statistics
+## Statistics
 <table>
   <tr>
     <td align="center" style="padding: 0; width: 50%">
       <img
-        alt="My GitHub Statistics"
+        alt=""
         src="https://github-readme-stats.vercel.app/api?username=aenjojo&count_private=true&show_icons=true&title_color=2080f0&icon_color=2080f0&text_color=92989f&include_all_commits=true&bg_color=00000000&hide_border=true"
         align="center"
         style="padding: 0"
@@ -67,7 +68,7 @@ You can reach me from:
     </td>
     <td>
       <img
-        alt="Most Used Languanges in My GitHub Profile"
+        alt=""
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=aenjojo&layout=compact&count_private=true&title_color=2080f0&icon_color=2080f0&text_color=92989f&include_all_commits=true&bg_color=00000000&hide_border=true&langs_count=6&extra=nexbot-dev/aenex"
         align="center"
         style="padding: 0"
@@ -78,12 +79,12 @@ You can reach me from:
 
 > Stats Provided by [GitHub Readme Stats]
 
-### Holopin Badge
+## Holopin Badge
 My Holopin badge collection board.
 <div>
   <a href="https://holopin.io/@aenjojo">
     <img
-      alt="My holopin board"
+      alt=""
       src="https://holopin.me/aenjojo"
       style="padding: 0"
     />
