@@ -7,14 +7,11 @@
 
 ## Introduction
 Hello, I am Josua Fernando Simanjuntak, also known as Aen Jojo (my online alias),
-a fresh graduate from STIKOM Tunas Bangsa with Bachelor Degree of Computer Science in System Information program and
-have learned JavaScript, web technology, and programming in general since 2017.
+I am a fresh graduate from STIKOM Tunas Bangsa with Bachelor's Degree in Computer Science in System Information program and have learned JavaScript, web technology, and programming in general since 2017.
 
-I love to learn new thing to improve my skills or get a new skill that useful to the market.
-I mainly focused in front-end development with NextJS and implementing ui/ux design with TailwindCSS to design the web page.
-Some skill I can do in back-end include, but not limited to create and manage a server, manage a database, and consume an API.
-I also have interest in UI/UX design.
-Here, I also developing discord bot with discord.js.
+A fast learner and love to learn new things to improve my skills or get a new skill that is useful to the market. Skilled in developing websites with a strong background in web design, user experience, and responsive web development. Passionate to create a high-quality website that focused on good accessibility and performance.
+
+I mainly focused on front-end development with NextJS and implementing ui/ux design with TailwindCSS to design the web page. Some skills I can do in the back end include, but are not limited to creating and managing a server, managing a database, and consuming an API. I also have an interest in UI/UX design. Here, I also developing discord bot with discord.js.
 
 ## Contacts
 You can reach me from:
