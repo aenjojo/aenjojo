@@ -32,7 +32,7 @@ You can reach me from:
       style="padding: 0"
     />
   </a>
-  <a href="https://www.instagram.com/aenjojo_09">
+  <a href="https://www.instagram.com/aenjojo">
     <img
       alt=""
       src="https://img.shields.io/static/v1?label=&message=Instagram&color=E4405F&style=for-the-badge&logo=instagram&logoColor=white"
