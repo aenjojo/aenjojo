@@ -40,7 +40,7 @@ You can reach me from:
       style="padding: 0"
     />
   </a>
-  <a href="https://www.twitter.com/aen_jojo_">
+  <a href="https://www.twitter.com/aenjojo_">
     <img
       alt=""
       src="https://img.shields.io/static/v1?label=&message=Twitter&color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white"
