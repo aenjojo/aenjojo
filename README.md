@@ -13,7 +13,7 @@ A fast learner and love to learn new things to improve my skills or get a new sk
 
 I mainly focused on front-end development with NextJS and implementing ui/ux design with TailwindCSS to design the web page. Some skills I can do in the back end include, but are not limited to creating and managing a server, managing a database, and consuming an API. I also have an interest in UI/UX design. Here, I also developing discord bot with discord.js.
 
-## Contacts
+## Contacts and Social Accounts
 You can reach me from:
 <div style="padding: 0">
   <a href="https://www.linkedin.com/in/aenjojo">
@@ -44,6 +44,22 @@ You can reach me from:
     <img
       alt=""
       src="https://img.shields.io/static/v1?label=&message=Twitter&color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white"
+      height="30"
+      style="padding: 0"
+    />
+  </a>
+  <a href="https://leetcode.com/aenjojo/">
+    <img
+      alt=""
+      src="https://img.shields.io/static/v1?label=&message=LeetCode&color=FFA116&style=for-the-badge&logo=leetcode&logoColor=white"
+      height="30"
+      style="padding: 0"
+    />
+  </a>
+  <a href="https://www.hackerrank.com/aenjojo">
+    <img
+      alt=""
+      src="https://img.shields.io/static/v1?label=&message=HackerRank&color=00EA64&style=for-the-badge&logo=hackerrank&logoColor=white"
       height="30"
       style="padding: 0"
     />
