@@ -16,7 +16,7 @@ I mainly focused on front-end development with NextJS and implementing ui/ux des
 ## Contacts and Social Accounts
 You can reach me from:
 <div style="padding: 0">
-  <a href="https://www.linkedin.com/in/aenjojo">
+  <a href="https://www.linkedin.com/in/aenjojo" target="_blank">
     <img
       alt=""
       src="https://img.shields.io/static/v1?label=&message=LinkedIn&color=0A66C2&style=for-the-badge&logo=linkedin&logoColor=white"
@@ -32,7 +32,7 @@ You can reach me from:
       style="padding: 0"
     />
   </a>
-  <a href="https://www.instagram.com/aenjojo">
+  <a href="https://www.instagram.com/aenjojo" target="_blank">
     <img
       alt=""
       src="https://img.shields.io/static/v1?label=&message=Instagram&color=E4405F&style=for-the-badge&logo=instagram&logoColor=white"
@@ -40,7 +40,7 @@ You can reach me from:
       style="padding: 0"
     />
   </a>
-  <a href="https://www.twitter.com/aenjojo_">
+  <a href="https://www.twitter.com/aenjojo_" target="_blank">
     <img
       alt=""
       src="https://img.shields.io/static/v1?label=&message=Twitter&color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white"
@@ -48,7 +48,7 @@ You can reach me from:
       style="padding: 0"
     />
   </a>
-  <a href="https://leetcode.com/aenjojo/">
+  <a href="https://leetcode.com/aenjojo/" target="_blank">
     <img
       alt=""
       src="https://img.shields.io/static/v1?label=&message=LeetCode&color=FFA116&style=for-the-badge&logo=leetcode&logoColor=white"
@@ -56,7 +56,7 @@ You can reach me from:
       style="padding: 0"
     />
   </a>
-  <a href="https://www.hackerrank.com/aenjojo">
+  <a href="https://www.hackerrank.com/aenjojo" target="_blank">
     <img
       alt=""
       src="https://img.shields.io/static/v1?label=&message=HackerRank&color=00EA64&style=for-the-badge&logo=hackerrank&logoColor=white"
@@ -92,10 +92,11 @@ You can reach me from:
 
 > Stats Provided by [GitHub Readme Stats]
 
+<!--
 ## Holopin Badge
 My Holopin badge collection board.
 <div>
-  <a href="https://holopin.io/@aenjojo">
+  <a href="https://holopin.io/@aenjojo" target="_blank">
     <img
       alt=""
       src="https://holopin.me/aenjojo"
@@ -103,7 +104,7 @@ My Holopin badge collection board.
     />
   </a>
 </div>
-
+-->
 
 [Shields.io]:            https://shields.io/
 [GitHub Readme Stats]:   https://github.com/anuraghazra/github-readme-stats
