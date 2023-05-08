@@ -16,18 +16,18 @@ I mainly focused on front-end development with NextJS and implementing ui/ux des
 ## Contacts and Social Accounts
 You can reach me from:
 <div style="padding: 0">
-  <a href="https://www.linkedin.com/in/aenjojo" target="_blank">
-    <img
-      alt=""
-      src="https://img.shields.io/static/v1?label=&message=LinkedIn&color=0A66C2&style=for-the-badge&logo=linkedin&logoColor=white"
-      height="30"
-      style="padding: 0"
-    />
-  </a>
   <a href="mailto:josuafernando999@gmail.com">
     <img
       alt=""
       src="https://img.shields.io/static/v1?label=&message=Gmail&color=EA4335&style=for-the-badge&logo=gmail&logoColor=white"
+      height="30"
+      style="padding: 0"
+    />
+  </a>
+  <a href="https://www.linkedin.com/in/aenjojo" target="_blank">
+    <img
+      alt=""
+      src="https://img.shields.io/static/v1?label=&message=LinkedIn&color=0A66C2&style=for-the-badge&logo=linkedin&logoColor=white"
       height="30"
       style="padding: 0"
     />
@@ -60,6 +60,30 @@ You can reach me from:
     <img
       alt=""
       src="https://img.shields.io/static/v1?label=&message=HackerRank&color=00EA64&style=for-the-badge&logo=hackerrank&logoColor=white"
+      height="30"
+      style="padding: 0"
+    />
+  </a>
+  <a href="https://www.quora.com/profile/Josua-Fernando-Simanjuntak" target="_blank">
+    <img
+      alt=""
+      src="https://img.shields.io/static/v1?label=&message=Quora%20(EN)&color=B92B27&style=for-the-badge&logo=quora&logoColor=white"
+      height="30"
+      style="padding: 0"
+    />
+  </a>
+  <a href="https://id.quora.com/profile/Josua-Fernando-Simanjuntak" target="_blank">
+    <img
+      alt=""
+      src="https://img.shields.io/static/v1?label=&message=Quora%20(ID)&color=B92B27&style=for-the-badge&logo=quora&logoColor=white"
+      height="30"
+      style="padding: 0"
+    />
+  </a>
+  <a href="https://www.sololearn.com/profile/3669090" target="_blank">
+    <img
+      alt=""
+      src="https://img.shields.io/static/v1?label=&message=Sololearn&color=149EF2&style=for-the-badge&logo=sololearn&logoColor=white"
       height="30"
       style="padding: 0"
     />
