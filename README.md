@@ -88,6 +88,22 @@ You can reach me from:
       style="padding: 0"
     />
   </a>
+  <a href="https://stackoverflow.com/users/21879363/josua-fernando" target="_blank">
+    <img
+      alt=""
+      src="https://img.shields.io/static/v1?label=&message=Stack%20Overflow&color=F58025&style=for-the-badge&logo=stackoverflow&logoColor=white"
+      height="30"
+      style="padding: 0"
+    />
+  </a>
+  <a href="https://meta.stackexchange.com/users/1364726/josua-fernando" target="_blank">
+    <img
+      alt=""
+      src="https://img.shields.io/static/v1?label=&message=Stack%20Exchange&color=1E5397&style=for-the-badge&logo=stackexchange&logoColor=white"
+      height="30"
+      style="padding: 0"
+    />
+  </a>
 </div>
 
 > Badge Provided by [Shields.io]
