@@ -15,98 +15,59 @@ I mainly focused on front-end development with NextJS and implementing ui/ux des
 
 ## Contacts and Social Accounts
 You can reach me from:
-<div style="padding: 0">
-  <a href="mailto:josuafernando999@gmail.com">
-    <img
-      alt=""
-      src="https://img.shields.io/static/v1?label=&message=Gmail&color=EA4335&style=for-the-badge&logo=gmail&logoColor=white"
-      height="30"
-      style="padding: 0"
-    />
-  </a>
-  <a href="https://www.linkedin.com/in/aenjojo" target="_blank">
-    <img
-      alt=""
-      src="https://img.shields.io/static/v1?label=&message=LinkedIn&color=0A66C2&style=for-the-badge&logo=linkedin&logoColor=white"
-      height="30"
-      style="padding: 0"
-    />
-  </a>
-  <a href="https://www.instagram.com/aenjojo" target="_blank">
-    <img
-      alt=""
-      src="https://img.shields.io/static/v1?label=&message=Instagram&color=E4405F&style=for-the-badge&logo=instagram&logoColor=white"
-      height="30"
-      style="padding: 0"
-    />
-  </a>
-  <a href="https://www.twitter.com/aenjojo_" target="_blank">
-    <img
-      alt=""
-      src="https://img.shields.io/static/v1?label=&message=Twitter&color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white"
-      height="30"
-      style="padding: 0"
-    />
-  </a>
-  <a href="https://leetcode.com/aenjojo/" target="_blank">
-    <img
-      alt=""
-      src="https://img.shields.io/static/v1?label=&message=LeetCode&color=FFA116&style=for-the-badge&logo=leetcode&logoColor=white"
-      height="30"
-      style="padding: 0"
-    />
-  </a>
-  <a href="https://www.hackerrank.com/aenjojo" target="_blank">
-    <img
-      alt=""
-      src="https://img.shields.io/static/v1?label=&message=HackerRank&color=00EA64&style=for-the-badge&logo=hackerrank&logoColor=white"
-      height="30"
-      style="padding: 0"
-    />
-  </a>
-  <a href="https://www.quora.com/profile/Josua-Fernando-Simanjuntak" target="_blank">
-    <img
-      alt=""
-      src="https://img.shields.io/static/v1?label=&message=Quora%20(EN)&color=B92B27&style=for-the-badge&logo=quora&logoColor=white"
-      height="30"
-      style="padding: 0"
-    />
-  </a>
-  <a href="https://id.quora.com/profile/Josua-Fernando-Simanjuntak" target="_blank">
-    <img
-      alt=""
-      src="https://img.shields.io/static/v1?label=&message=Quora%20(ID)&color=B92B27&style=for-the-badge&logo=quora&logoColor=white"
-      height="30"
-      style="padding: 0"
-    />
-  </a>
-  <a href="https://www.sololearn.com/profile/3669090" target="_blank">
-    <img
-      alt=""
-      src="https://img.shields.io/static/v1?label=&message=Sololearn&color=149EF2&style=for-the-badge&logo=sololearn&logoColor=white"
-      height="30"
-      style="padding: 0"
-    />
-  </a>
-  <a href="https://stackoverflow.com/users/21879363/josua-fernando" target="_blank">
-    <img
-      alt=""
-      src="https://img.shields.io/static/v1?label=&message=Stack%20Overflow&color=F58025&style=for-the-badge&logo=stackoverflow&logoColor=white"
-      height="30"
-      style="padding: 0"
-    />
-  </a>
-  <a href="https://meta.stackexchange.com/users/1364726/josua-fernando" target="_blank">
-    <img
-      alt=""
-      src="https://img.shields.io/static/v1?label=&message=Stack%20Exchange&color=1E5397&style=for-the-badge&logo=stackexchange&logoColor=white"
-      height="30"
-      style="padding: 0"
-    />
-  </a>
+<div>
+  <img src="https://cdn.simpleicons.org/gmail/EA4335" height="12" alt="">
+  Email:
+  <a href="mailto:josuafernando999@gmail.com">Josua Fernando</a>
+</div>
+<div>
+  <img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="12" alt="">
+  LinkedIn:
+  <a href="https://www.linkedin.com/in/aenjojo">Josua Fernando</a>
 </div>
 
-> Badge Provided by [Shields.io]
+<div>
+  <img src="https://cdn.simpleicons.org/instagram/E4405F" height="12" alt="">
+  Instagram:
+  <a href="https://www.instagram.com/aenjojo">Josua Fernando</a>
+</div>
+<div>
+  <img src="https://cdn.simpleicons.org/twitter/1DA1F2" height="12" alt="">
+  Twitter:
+  <a href="https://www.twitter.com/aenjojo_">Josua Fernando</a>
+</div>
+<div>
+  <img src="https://cdn.simpleicons.org/telegram/26A5E4" height="12" alt="">
+  Telegram:
+  <a href="https://t.me/aen_jojo">Josua Fernando</a>
+</div>
+<div>
+  <img src="https://cdn.simpleicons.org/sololearn/149EF2" height="12" alt="">
+  SoloLearn:
+  <a href="https://www.sololearn.com/profile/3669090">Amethyst Animion</a>
+</div>
+
+<div>
+  <img src="https://cdn.simpleicons.org/quora/B92B27" height="12" alt="">
+  Quora:
+  <a href="https://id.quora.com/profile/Josua-Fernando-Simanjuntak">Josua Fernando Simanjuntak</a>
+</div>
+<div>
+  <img src="https://cdn.simpleicons.org/stackoverflow/F58025" height="12" alt="">
+  StackOverflow:
+  <a href="https://stackoverflow.com/users/21879363/josua-fernando">Josua Fernando</a>
+</div>
+
+<div>
+  <img src="https://cdn.simpleicons.org/leetcode/FFA116" height="12" alt="">
+  LeetCode:
+  <a href="https://leetcode.com/aenjojo/">Josua Fernando</a>
+</div>
+<div>
+  <img src="https://cdn.simpleicons.org/hackerrank/00EA64" height="12" alt="">
+  HackerRank:
+  <a href="https://www.hackerrank.com/aenjojo">Josua Fernando</a>
+</div>
 
 ## Statistics
 <table>
@@ -130,7 +91,9 @@ You can reach me from:
   </tr>
 </table>
 
-> Stats Provided by [GitHub Readme Stats]
+## Provider
+- Icons on [Contacts](#contacts-and-social-accounts) provided by [Simple Icons]
+- Stats on [Statistics](#statistics) provided by [GitHub Readme Stats]
 
 <!--
 ## Holopin Badge
@@ -146,5 +109,5 @@ My Holopin badge collection board.
 </div>
 -->
 
-[Shields.io]:            https://shields.io/
+[Simple Icons]:          https://simpleicons.org/
 [GitHub Readme Stats]:   https://github.com/anuraghazra/github-readme-stats
