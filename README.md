@@ -27,6 +27,11 @@ You can reach me from:
 </div>
 
 <div>
+  <img src="https://cdn.simpleicons.org/discord/5865F2" height="12" alt="">
+  Discord:
+  <a href="https://discord.com/users/445789748083163139">aenjojo#9169</a>
+</div>
+<div>
   <img src="https://cdn.simpleicons.org/instagram/E4405F" height="12" alt="">
   Instagram:
   <a href="https://www.instagram.com/aenjojo">Josua Fernando</a>
