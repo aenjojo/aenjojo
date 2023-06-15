@@ -41,7 +41,7 @@ You can reach me from:
 <div>
   <img src="https://cdn.simpleicons.org/discord/5865F2" height="16" alt="">
   Discord:
-  <a href="https://discord.com/users/445789748083163139">aenjojo#9169</a>
+  <a href="https://discord.com/users/445789748083163139">Aen Jojo</a>
 </div>
 <div>
   <img src="https://cdn.simpleicons.org/instagram/E4405F" height="16" alt="">
