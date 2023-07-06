@@ -34,7 +34,7 @@ You can reach me from:
     <td>
       <img
         alt=""
-        src="https://aenjojo-ghstats.vercel.app/api/top-langs/?username=aenjojo&layout=compact&count_private=true&title_color=2080f0&icon_color=2080f0&text_color=92989f&include_all_commits=true&bg_color=00000000&hide_border=true&langs_count=6&extra=nexbot-dev/aenex"
+        src="https://aenjojo-ghstats.vercel.app/api/top-langs/?username=aenjojo&layout=compact&count_private=true&title_color=2080f0&icon_color=2080f0&text_color=92989f&include_all_commits=true&bg_color=00000000&hide_border=true&langs_count=12&size_weight=0.5&count_weight=0.5"
         align="center"
         style="padding: 0"
       />
