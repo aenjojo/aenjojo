@@ -42,9 +42,17 @@ You can reach me from:
   </tr>
 </table>
 
-## Provider
-- Icons on [Contacts](#contacts-and-social-accounts) provided by [Simple Icons]
-- Stats on [Statistics](#statistics) provided by [GitHub Readme Stats]
+## Roadmap
+<a href="https://roadmap.sh">
+  <img
+    src="https://api.roadmap.sh/v1-badge/wide/64512815618c45b1baa8357f?variant=dark"
+    alt="roadmap.sh"
+  />
+</a>
 
-[Simple Icons]:          https://simpleicons.org/
+## Provider
+- Statistics provided by [GitHub Readme Stats]
+- Roadmap provided by [roadmap.sh]
+
 [GitHub Readme Stats]:   https://github.com/anuraghazra/github-readme-stats
+[roadmap.sh]:            https://roadmap.sh/
