@@ -45,7 +45,7 @@ You can reach me from:
 ## Roadmap
 <a href="https://roadmap.sh">
   <img
-    src="https://api.roadmap.sh/v1-badge/wide/64512815618c45b1baa8357f?variant=dark&roadmaps=frontend%2Ctypescript%2Creact%2Cfull-stack"
+    src="https://api.roadmap.sh/v1-badge/wide/64512815618c45b1baa8357f?variant=dark&roadmaps=frontend%2Cbackend%2Cfull-stack%2Cdevops"
     alt="roadmap.sh"
   />
 </a>
