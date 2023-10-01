@@ -18,7 +18,7 @@ You can reach me from:
 * Email: josuafernando999@gmail.com
 * LinkedIn: [Josua Fernando](https://www.linkedin.com/in/aenjojo)
 * Discord: [@aenjojo](https://discord.com/users/445789748083163139)
-* Twitter: [@aenjojo_](https://www.twitter.com/aenjojo_)
+* X: [@aenjojo_](https://x.com/aenjojo_)
 
 ## Statistics
 <table>
