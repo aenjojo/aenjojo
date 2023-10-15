@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="/assets/AenJojo - Circle.png" alt="" height="128" />
+  <img src="/assets/aenjojo-v3-blupinkeu-sticker.png" alt="" height="128" />
   
   AenJojo's Profile
   =================
