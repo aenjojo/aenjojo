@@ -12,13 +12,11 @@ Passionate to achieve best approach in UI/UX design and Accessibility.
 I also develop discord bots in [@nexbot-dev](https://github.com/nexbot-dev).
 
 ## Contacts and Social Accounts
-You can reach me from:
+You can reach me at:
 * GitHub: [aenjojo](https://github.com/aenjojo)
 * GitLab: [aenjojo](https://gitlab.com/aenjojo)
-* Email: josuafernando999@gmail.com
 * LinkedIn: [Josua Fernando](https://www.linkedin.com/in/aenjojo)
-* Discord: [@aenjojo](https://discord.com/users/445789748083163139)
-* X: [@aenjojo_](https://x.com/aenjojo_)
+* Twitter/X: [@aenjojo_](https://x.com/aenjojo_)
 
 ## Statistics
 <table>
