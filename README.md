@@ -24,7 +24,7 @@ You can reach me at:
     <td align="center" style="padding: 0; width: 50%">
       <img
         alt=""
-        src="https://aenjojo-ghstats.vercel.app/api?username=aenjojo&count_private=true&show_icons=true&title_color=2080f0&icon_color=2080f0&text_color=92989f&include_all_commits=false&bg_color=00000000&hide_border=true"
+        src="https://github-readme-stats.vercel.app/api?username=aenjojo&count_private=true&show_icons=true&title_color=2080f0&icon_color=2080f0&text_color=92989f&include_all_commits=false&bg_color=00000000&hide_border=true"
         align="center"
         style="padding: 0"
       />
@@ -32,7 +32,7 @@ You can reach me at:
     <td>
       <img
         alt=""
-        src="https://aenjojo-ghstats.vercel.app/api/top-langs/?username=aenjojo&layout=compact&count_private=true&title_color=2080f0&icon_color=2080f0&text_color=92989f&bg_color=00000000&hide_border=true&langs_count=12&size_weight=0.5&count_weight=0.5"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=aenjojo&layout=compact&count_private=true&title_color=2080f0&icon_color=2080f0&text_color=92989f&bg_color=00000000&hide_border=true&langs_count=12&size_weight=0.5&count_weight=0.5"
         align="center"
         style="padding: 0"
       />
