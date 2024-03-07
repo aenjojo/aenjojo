@@ -13,6 +13,7 @@ I also develop discord bots in [@nexbot-dev](https://github.com/nexbot-dev).
 
 ## Contacts and Social Accounts
 You can reach me at:
+* Email: contact@aenjojo.dev
 * GitHub: [aenjojo](https://github.com/aenjojo)
 * GitLab: [aenjojo](https://gitlab.com/aenjojo)
 * LinkedIn: [Josua Fernando](https://www.linkedin.com/in/aenjojo)
