@@ -6,7 +6,7 @@
 </div>
 
 ## Introduction
-Hello, I am Josua Fernando Simanjuntak, also known as Aen Jojo.
+Hello, I am Josua Fernando, also known as Aen Jojo.
 Skilled in web development, mostly with React and NextJS.
 Passionate to achieve best approach in UI/UX design and Accessibility.
 I also develop discord bots in [@nexbot-dev](https://github.com/nexbot-dev).
@@ -14,9 +14,9 @@ I also develop discord bots in [@nexbot-dev](https://github.com/nexbot-dev).
 ## Contacts and Social Accounts
 You can reach me at:
 * Email: contact@aenjojo.dev
+* LinkedIn: [Josua Fernando](https://www.linkedin.com/in/aenjojo)
 * GitHub: [aenjojo](https://github.com/aenjojo)
 * GitLab: [aenjojo](https://gitlab.com/aenjojo)
-* LinkedIn: [Josua Fernando](https://www.linkedin.com/in/aenjojo)
 * Twitter/X: [@aenjojo_](https://x.com/aenjojo_)
 
 ## Statistics
