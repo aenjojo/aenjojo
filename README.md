@@ -11,7 +11,7 @@ Focuses on web-app and back-end development.
 
 ### Contacts and social accounts to reach me:
 * Email: contact@aenjojo.dev
-* LinkedIn: [Josua Fernando](https://www.linkedin.com/in/aenjojo)
+* LinkedIn: [Josua Fernando](https://www.linkedin.com/in/aenjojo) (no longer working because LinkedIn suspended me for no reason)
 * GitHub: [aenjojo](https://github.com/aenjojo)
 * GitLab: [aenjojo](https://gitlab.com/aenjojo)
 * Twitter/X: [@aenjojo_](https://x.com/aenjojo_)
